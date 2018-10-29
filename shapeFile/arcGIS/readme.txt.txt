@@ -1,0 +1,2 @@
+- The district boundaries for Rajasthan are downloaded from https://www.arcgis.com/home/item.html?id=acb8cb18e7cd45c982086b6ef2bb5a62 on 29.10.2018.
+- Boundary of Jaipur district is extracted from above shape file.
