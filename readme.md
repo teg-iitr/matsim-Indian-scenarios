@@ -1,3 +1,3 @@
-#  jaipur-data
+#  Jaipur-data
 
-This repository contains the data realted to Jaipur in the state of Rajasthan, India.
+This repository contains the data related to Jaipur, India. Refer to the corresponding web pages for licenses. 
