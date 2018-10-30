@@ -1,0 +1,2 @@
+The files are downloaded from https://github.com/datameet/Municipal_Spatial_Data/blob/master/Jaipur/Jaipur_Assembly_constituency-SHP.zip on 29.10.2018.
+This link also contains GeoJSON files as well. The datameet project has similar files for other cities also.
