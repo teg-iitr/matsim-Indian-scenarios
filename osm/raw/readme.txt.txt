@@ -1,0 +1,3 @@
+- OSM file is downloaded from https://download.geofabrik.de/asia/india.html on 29.10.2018.
+- Installation instructions for OSMOSIS are under: https://wiki.openstreetmap.org/wiki/Osmosis/Installation
+- 
